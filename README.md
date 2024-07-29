@@ -48,10 +48,12 @@ I'm a Front End Developer. Currently Persuing my B-TecH Degree. I am a 4-year st
 ## Working Example
 
 - Operation 1
+
 ![Op1](https://github.com/user-attachments/assets/82df457d-ec50-4858-9d0b-64afc07d9aa0)
 ![ans1](https://github.com/user-attachments/assets/e3d26628-c220-4777-8307-5ed1ff53fc7b)
 
 - Operation 2
+
 ![Op2](https://github.com/user-attachments/assets/dd91ccd2-9cc6-428a-bf14-0377de5f56a2)
 ![ans2](https://github.com/user-attachments/assets/73e400f1-e41c-4a9d-b3e4-9c54e855a883)
 
