@@ -8,7 +8,7 @@ I created a beginner-friendly calculator website using HTML, CSS, and JavaScript
 
 ## Authors
 
-- NigmaHiI
+- NigmaHI
 
 
 
